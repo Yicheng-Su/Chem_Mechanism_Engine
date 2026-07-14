@@ -113,7 +113,7 @@ O
 - Shift+Enter：换行，继续输入下一个分子
 - **显示所有氢原子**：决定导入时是否显式显示全部氢原子
 
-从 ChemDraw 使用 `Edit → Copy As → SMILES` 获得的字符串也可以直接粘贴。
+> **推荐工作流：** 先在 ChemDraw 中画好分子结构，再使用 `Edit → Copy As → SMILES` 复制 SMILES 字符串，将其粘贴到本网页的 **Import from SMILES** 窗口中导入。对于复杂分子，这通常比手动输入 SMILES 更方便，也更不容易出错。
 
 ### 3. 设置初始状态
 
@@ -386,7 +386,7 @@ If you enter Creator mode while a reaction is still loaded, the application adop
 
 To import multiple molecules, enter one SMILES string per line. Use Shift+Enter to insert a new line and Enter to confirm the import. The explicit-hydrogen option controls whether all hydrogens are shown after import.
 
-SMILES copied from ChemDraw with `Edit → Copy As → SMILES` can be pasted directly.
+> **Recommended workflow:** Draw the molecular structure in ChemDraw first, then use `Edit → Copy As → SMILES` to copy its SMILES string and paste it into the website's **Import from SMILES** dialog. For complex molecules, this is usually easier and less error-prone than typing SMILES manually.
 
 ### 3. Define the initial state
 

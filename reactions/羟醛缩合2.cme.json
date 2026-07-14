@@ -1,0 +1,417 @@
+{
+  "format": "cme-reaction/v1",
+  "name": "Untitled Reaction",
+  "description": "",
+  "canvas": {
+    "w": 1970,
+    "h": 801
+  },
+  "ready": {
+    "title": "Step 0: Ready State",
+    "indication": ""
+  },
+  "initial": {
+    "atoms": [
+      {
+        "id": "u1",
+        "el": "O",
+        "x": 797,
+        "y": 389,
+        "lonePairs": 2
+      },
+      {
+        "id": "u2",
+        "el": "C",
+        "x": 738,
+        "y": 371,
+        "lonePairs": 0
+      },
+      {
+        "id": "u3",
+        "el": "C",
+        "x": 762,
+        "y": 312,
+        "lonePairs": 0
+      },
+      {
+        "id": "u4",
+        "el": "C",
+        "x": 714,
+        "y": 270,
+        "lonePairs": 0
+      },
+      {
+        "id": "u5",
+        "el": "C",
+        "x": 689,
+        "y": 211,
+        "lonePairs": 0
+      },
+      {
+        "id": "u6",
+        "el": "C",
+        "x": 745,
+        "y": 179,
+        "lonePairs": 0
+      },
+      {
+        "id": "u7",
+        "el": "C",
+        "x": 804,
+        "y": 202,
+        "lonePairs": 0
+      },
+      {
+        "id": "u8",
+        "el": "C",
+        "x": 806,
+        "y": 265,
+        "lonePairs": 0
+      },
+      {
+        "id": "u9",
+        "el": "C",
+        "x": 975,
+        "y": 242,
+        "lonePairs": 1
+      },
+      {
+        "id": "u10",
+        "el": "N",
+        "x": 964,
+        "y": 303,
+        "lonePairs": 1
+      },
+      {
+        "id": "u11",
+        "el": "H",
+        "x": 679,
+        "y": 378,
+        "lonePairs": 0
+      },
+      {
+        "id": "u12",
+        "el": "H",
+        "x": 657,
+        "y": 285,
+        "lonePairs": 0
+      },
+      {
+        "id": "u13",
+        "el": "H",
+        "x": 655,
+        "y": 163,
+        "lonePairs": 0
+      },
+      {
+        "id": "u14",
+        "el": "H",
+        "x": 746,
+        "y": 120,
+        "lonePairs": 0
+      },
+      {
+        "id": "u15",
+        "el": "H",
+        "x": 843,
+        "y": 157,
+        "lonePairs": 0
+      },
+      {
+        "id": "u16",
+        "el": "H",
+        "x": 853,
+        "y": 301,
+        "lonePairs": 0
+      },
+      {
+        "id": "u17",
+        "el": "O",
+        "x": 656,
+        "y": 610,
+        "lonePairs": 2
+      },
+      {
+        "id": "u18",
+        "el": "C",
+        "x": 596,
+        "y": 621,
+        "lonePairs": 0
+      },
+      {
+        "id": "u19",
+        "el": "C",
+        "x": 533,
+        "y": 612,
+        "lonePairs": 0
+      },
+      {
+        "id": "u20",
+        "el": "H",
+        "x": 608,
+        "y": 679,
+        "lonePairs": 0
+      },
+      {
+        "id": "u21",
+        "el": "C",
+        "x": 471,
+        "y": 599,
+        "lonePairs": 0
+      },
+      {
+        "id": "u22",
+        "el": "C",
+        "x": 538,
+        "y": 548,
+        "lonePairs": 0
+      },
+      {
+        "id": "u23",
+        "el": "C",
+        "x": 410,
+        "y": 577,
+        "lonePairs": 0
+      },
+      {
+        "id": "u24",
+        "el": "H",
+        "x": 443,
+        "y": 651,
+        "lonePairs": 0
+      },
+      {
+        "id": "u25",
+        "el": "C",
+        "x": 488,
+        "y": 509,
+        "lonePairs": 0
+      },
+      {
+        "id": "u26",
+        "el": "H",
+        "x": 597,
+        "y": 545,
+        "lonePairs": 0
+      },
+      {
+        "id": "u27",
+        "el": "C",
+        "x": 424,
+        "y": 515,
+        "lonePairs": 0
+      },
+      {
+        "id": "u28",
+        "el": "H",
+        "x": 380,
+        "y": 628,
+        "lonePairs": 0
+      },
+      {
+        "id": "u29",
+        "el": "H",
+        "x": 487,
+        "y": 450,
+        "lonePairs": 0
+      },
+      {
+        "id": "u30",
+        "el": "H",
+        "x": 409,
+        "y": 458,
+        "lonePairs": 0
+      }
+    ],
+    "bonds": [
+      {
+        "a": "u1",
+        "b": "u2",
+        "order": 2
+      },
+      {
+        "a": "u2",
+        "b": "u3",
+        "order": 1
+      },
+      {
+        "a": "u3",
+        "b": "u4",
+        "order": 2
+      },
+      {
+        "a": "u4",
+        "b": "u5",
+        "order": 1
+      },
+      {
+        "a": "u5",
+        "b": "u6",
+        "order": 2
+      },
+      {
+        "a": "u6",
+        "b": "u7",
+        "order": 1
+      },
+      {
+        "a": "u7",
+        "b": "u8",
+        "order": 2
+      },
+      {
+        "a": "u3",
+        "b": "u8",
+        "order": 1
+      },
+      {
+        "a": "u9",
+        "b": "u10",
+        "order": 3
+      },
+      {
+        "a": "u2",
+        "b": "u11",
+        "order": 1
+      },
+      {
+        "a": "u4",
+        "b": "u12",
+        "order": 1
+      },
+      {
+        "a": "u5",
+        "b": "u13",
+        "order": 1
+      },
+      {
+        "a": "u6",
+        "b": "u14",
+        "order": 1
+      },
+      {
+        "a": "u7",
+        "b": "u15",
+        "order": 1
+      },
+      {
+        "a": "u8",
+        "b": "u16",
+        "order": 1
+      },
+      {
+        "a": "u17",
+        "b": "u18",
+        "order": 2
+      },
+      {
+        "a": "u18",
+        "b": "u19",
+        "order": 1
+      },
+      {
+        "a": "u19",
+        "b": "u21",
+        "order": 2
+      },
+      {
+        "a": "u21",
+        "b": "u23",
+        "order": 1
+      },
+      {
+        "a": "u23",
+        "b": "u27",
+        "order": 2
+      },
+      {
+        "a": "u27",
+        "b": "u25",
+        "order": 1
+      },
+      {
+        "a": "u25",
+        "b": "u22",
+        "order": 2
+      },
+      {
+        "a": "u19",
+        "b": "u22",
+        "order": 1
+      },
+      {
+        "a": "u18",
+        "b": "u20",
+        "order": 1
+      },
+      {
+        "a": "u21",
+        "b": "u24",
+        "order": 1
+      },
+      {
+        "a": "u23",
+        "b": "u28",
+        "order": 1
+      },
+      {
+        "a": "u27",
+        "b": "u30",
+        "order": 1
+      },
+      {
+        "a": "u25",
+        "b": "u29",
+        "order": 1
+      },
+      {
+        "a": "u22",
+        "b": "u26",
+        "order": 1
+      }
+    ]
+  },
+  "steps": [
+    {
+      "title": "Step 1:",
+      "indication": "",
+      "trigger": {
+        "type": "clickBond",
+        "bond": [
+          "u1",
+          "u2"
+        ]
+      },
+      "delta": {
+        "bondsFormed": [
+          {
+            "a": "u2",
+            "b": "u9",
+            "order": 1
+          }
+        ],
+        "orderChanges": [
+          {
+            "a": "u1",
+            "b": "u2",
+            "from": 2,
+            "to": 1
+          }
+        ],
+        "lonePairChanges": [
+          {
+            "atom": "u1",
+            "from": 2,
+            "to": 3
+          },
+          {
+            "atom": "u9",
+            "from": 1,
+            "to": 0
+          }
+        ]
+      },
+      "fireworks": true
+    }
+  ]
+}

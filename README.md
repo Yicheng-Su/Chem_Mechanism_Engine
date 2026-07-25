@@ -2,6 +2,10 @@
 
 [中文说明](#中文说明) | [English](#english)
 
+<p align="center">
+  <img src="docs/images/chem-mechanism-engine-overview.png" alt="Chem Mechanism Engine visualizing a Ugi four-component reaction" width="100%">
+</p>
+
 ## 中文说明
 
 Chem Mechanism Engine 是一个在浏览器中运行的有机反应机理可视化与创作工具。用户可以从 SMILES 导入反应物和试剂，逐步录制成键、断键和键级变化，添加每一步的标题、提示与示意能量，并将完整反应保存为可分享的 `.cme.json` 文件。
